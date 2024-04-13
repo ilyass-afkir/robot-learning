@@ -1,0 +1,8 @@
+name: robot-learning-ex5
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+      - matplotlib==3.6.2
+      - numpy==1.23.4
+
